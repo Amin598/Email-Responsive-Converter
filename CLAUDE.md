@@ -1,0 +1,1 @@
+- always explain the code and the function in deteil - even all components need to be explained when used i am a beginner so please recognize that.!!!!!!!!!1
